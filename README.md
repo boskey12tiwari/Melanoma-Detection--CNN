@@ -33,7 +33,7 @@ Accuracy on training data has increased by using Augmentor library
 
 
 ## Contact
-Created by [boskey12tiwari@githubusername] - feel free to contact me!
+Created by [boskey12tiwari@gmail.com] - feel free to contact me!
 
 
 <!-- Optional -->
